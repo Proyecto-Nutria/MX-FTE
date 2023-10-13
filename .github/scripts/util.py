@@ -32,16 +32,6 @@ def getEnglish(listing):
         return " 🇬🇧"
     return ""
 
-def getLevels(listing):
-    levels = ""
-    if "New Grad" in listing["level"]:
-        levels += "⚪"
-    if "Semi Sr" in listing["level"]:
-        levels += "🟢"
-    if "Sr+" in listing["level"]:
-        levels += "🔵"
-    return levels
-
 def getLink(listing):
     if not listing["active"]:
         return "🔒"
@@ -63,7 +53,7 @@ def create_md_table(listings):
             company_url) > 0 else listing["company_name"]
         location = getLocations(listing)
         position = listing["title"] + getEnglish(listing)
-        levels = getLevels(listing)
+        levels = ", ".join(listing["experience"])
         link = getLink(listing)
 
         year_month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b %Y')

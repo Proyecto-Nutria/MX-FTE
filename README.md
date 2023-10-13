@@ -16,9 +16,9 @@ Siguiendo el [repositorio de Pitt CSC & Simplify](https://github.com/SimplifyJob
  - 🇬🇧 - Requiere hablar inglés
  - 🔒 - Aplicación al trabajo cerrada
  - Nivel:
-   - ⚪ New Grad (sin o con poca experiencia)
-   - 🟢 Semi Sr (al menos 2 años de experiencia)
-   - 🔵 Sr+ (al menos 5 años de experiencia)
+   - New Grad (sin o con poca experiencia)
+   - Semi Sr (al menos 2 años de experiencia)
+   - Sr+ (al menos 5 años de experiencia)
 
 [⬇️ Baja pa'bajo ⬇️](https://github.com/Proyecto-Nutria/MX-FTE#agradecemos-a-nuestros-otter-contributors-%EF%B8%8F%EF%B8%8F)
 
