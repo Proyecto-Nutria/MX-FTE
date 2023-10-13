@@ -53,7 +53,7 @@ def create_md_table(listings):
             company_url) > 0 else listing["company_name"]
         location = getLocations(listing)
         position = listing["title"] + getEnglish(listing)
-        levels = ", ".join(listing["experience"])
+        levels = ", ".join(listing["level"])
         link = getLink(listing)
 
         year_month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b %Y')
