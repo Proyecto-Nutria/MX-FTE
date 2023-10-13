@@ -33,13 +33,14 @@ def getEnglish(listing):
     return ""
 
 def getLevels(listing):
-    if listing["level"] == "New Grad":
-        return "⚪"
-    if listing["level"] == "Semi Sr":
-        return "🟢"
-    if listing["level"] == "Sr+":
-        return "🔵"
-    return ""
+    levels = ""
+    if "New Grad" in listing["level"]:
+        levels += "⚪"
+    if "Semi Sr" in listing["level"]:
+        levels += "🟢"
+    if "Sr+" in listing["level"]:
+        levels += "🔵"
+    return levels
 
 def getLink(listing):
     if not listing["active"]:
