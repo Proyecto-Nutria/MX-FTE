@@ -6,6 +6,8 @@ Siguiendo el [repositorio de Pitt CSC & Simplify](https://github.com/SimplifyJob
 
 🙏 **¡Contribuye enviando un [issue](https://github.com/Proyecto-Nutria/MX-FTE/issues/new/choose)! Revisa las pautas para las contribuciones [aquí](./CONTRIBUTING.md)** 🙏
 
+> Para internships revisa [Internships 2024](https://github.com/Proyecto-Nutria/MX-Internships).
+
 ---
 
 ## La Lista 🚴🏔
@@ -17,8 +19,6 @@ Siguiendo el [repositorio de Pitt CSC & Simplify](https://github.com/SimplifyJob
    - ⚪ New Grad (sin o con poca experiencia)
    - 🟢 Semi Sr (al menos 2 años de experiencia)
    - 🔵 Sr+ (al menos 5 años de experiencia)
-
-> Para internships revisa [Internships 2024](https://github.com/Proyecto-Nutria/MX-Internships).
 
 [⬇️ Baja pa'bajo ⬇️](https://github.com/Proyecto-Nutria/MX-FTE#agradecemos-a-nuestros-otter-contributors-%EF%B8%8F%EF%B8%8F)
 
