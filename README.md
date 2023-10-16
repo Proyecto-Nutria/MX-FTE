@@ -26,7 +26,7 @@ Siguiendo el [repositorio de Pitt CSC & Simplify](https://github.com/SimplifyJob
 
 | Compañía | Rol | Lugar | Nivel | Aplicación/Link | Fecha publicación |
 | ------- | ---- | -------- | ----- | ---------------- | ----------- |
-|  |  |  |  |  |  |
+| Lyft | Backend Software Engineer 🇬🇧 | Ciudad de Mexico, Mexico |  | <a href="https://app.careerpuck.com/job-board/lyft/job/6795229002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 
