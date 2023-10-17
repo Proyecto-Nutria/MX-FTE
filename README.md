@@ -26,6 +26,7 @@ Siguiendo el [repositorio de Pitt CSC & Simplify](https://github.com/SimplifyJob
 
 | Compañía | Rol | Lugar | Nivel | Aplicación/Link | Fecha publicación |
 | ------- | ---- | -------- | ----- | ---------------- | ----------- |
+| Google | Software Engineer 🇬🇧 | Ciudad de México, México | New Grad | <a href="https://www.google.com/about/careers/applications/jobs/results/131924604324061894-software-engineer-early-career-education-analytics?q=Engineering&location=Mexico&target_level=EARLY"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Microsoft | Software Engineer 🇬🇧 | Remoto | New Grad | <a href="https://jobs.careers.microsoft.com/global/en/share/1627680/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Lyft | Software Engineer- Android 🇬🇧 | Ciudad de Mexico, Mexico | New Grad, Semi Sr, Sr+ | <a href="https://app.careerpuck.com/job-board/lyft/job/6824762002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | ↳ | Backend Software Engineer 🇬🇧 | Ciudad de Mexico, Mexico | New Grad, Semi Sr, Sr+ | <a href="https://app.careerpuck.com/job-board/lyft/job/6795229002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |

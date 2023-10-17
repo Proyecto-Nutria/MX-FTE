@@ -59,5 +59,24 @@
         "date_posted": 1697511553,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697561575,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/131924604324061894-software-engineer-early-career-education-analytics?q=Engineering&location=Mexico&target_level=EARLY",
+        "company_name": "Google",
+        "title": "Software Engineer",
+        "locations": [
+            "Ciudad de M\u00e9xico, M\u00e9xico"
+        ],
+        "level": [
+            "New Grad"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "OscarSantosMu",
+        "id": "a6233357-054c-453a-a583-5fe74bea38fb",
+        "date_posted": 1697561575,
+        "company_url": "",
+        "is_visible": true
     }
 ]
