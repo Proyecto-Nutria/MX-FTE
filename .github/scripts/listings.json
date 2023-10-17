@@ -40,5 +40,24 @@
         "date_posted": 1697432262,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697511553,
+        "url": "https://jobs.careers.microsoft.com/global/en/share/1627680/",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Remoto"
+        ],
+        "level": [
+            "New Grad"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "akotadi",
+        "id": "72910e94-d4d4-4339-97e6-c3e21b60a0f3",
+        "date_posted": 1697511553,
+        "company_url": "",
+        "is_visible": true
     }
 ]
