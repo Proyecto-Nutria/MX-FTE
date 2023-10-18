@@ -52,8 +52,13 @@ def main():
     if utm != -1:
         data["url"] = data["url"][:utm]
     
-    issue_title = f"{data['company_name']} | {data['title']} | {len(data['locations'])} Location(s)"
-    print(issue_title)
+    issue_title = "{} | {} | {} Location(s)".format(
+        data.get('company_name', '?'), 
+        data.get('title', '?'), 
+        len(data.get('locations', [])),
+    )
+    print('data', data)
+    print('issue_title', issue_title)
 
     util.setOutput("issue_title", issue_title)
 
