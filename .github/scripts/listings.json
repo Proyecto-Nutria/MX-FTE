@@ -138,5 +138,24 @@
         "date_posted": 1697602483,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697606372,
+        "url": "https://www.amazon.jobs/en/jobs/2468805/software-development-engineer-digital-and-emerging-markets-payments-mx",
+        "company_name": "Amazon",
+        "title": "Software Development Engineer",
+        "locations": [
+            "Ciudad de M\u00e9xico"
+        ],
+        "level": [
+            "Semi Sr"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "akotadi",
+        "id": "83628382-d972-47b0-a3c8-dc117326d246",
+        "date_posted": 1697606372,
+        "company_url": "",
+        "is_visible": true
     }
 ]
