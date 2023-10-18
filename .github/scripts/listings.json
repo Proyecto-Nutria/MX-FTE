@@ -78,5 +78,27 @@
         "date_posted": 1697561575,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697602414,
+        "url": "https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387",
+        "company_name": "Pinterest",
+        "title": "Software Engineer, Fullstack",
+        "locations": [
+            "Ciudad de M\u00e9xico",
+            "Remoto"
+        ],
+        "level": [
+            "New Grad",
+            "Semi Sr",
+            "Sr+"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "akotadi",
+        "id": "0c1020fa-07cc-40a5-966a-4488786deb9e",
+        "date_posted": 1697602414,
+        "company_url": "",
+        "is_visible": true
     }
 ]
