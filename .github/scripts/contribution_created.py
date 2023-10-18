@@ -53,6 +53,7 @@ def main():
         data["url"] = data["url"][:utm]
     
     issue_title = f"{data['company_name']} | {data['title']} | {len(data['locations'])} Location(s)"
+    print(issue_title)
 
     util.setOutput("issue_title", issue_title)
 

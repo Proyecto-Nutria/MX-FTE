@@ -28,8 +28,10 @@ jobs:
         if: success()
         uses: actions-cool/issues-helper@v3
         with:
-           actions: 'update-issue'
-           token: ${{ secrets.GITHUB_TOKEN }}
-           issue-number: ${{ github.event.issue.number }}
-           title: ${{ steps.python_script.outputs.issue_title }}
-           update-mode: 'replace'
+          actions: 'update-issue'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          title: ${{ steps.python_script.outputs.issue_title }}
+          emoji: '+1'
+      
+      - name: Print title
+        run: echo ${{ steps.python_script.outputs.issue_title }}
