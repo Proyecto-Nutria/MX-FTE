@@ -157,5 +157,24 @@
         "date_posted": 1697606372,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697606486,
+        "url": "https://jobs.careers.microsoft.com/global/en/share/1627683/",
+        "company_name": "Microsoft",
+        "title": "Senior Software Engineer",
+        "locations": [
+            "Remoto"
+        ],
+        "level": [
+            "Sr+"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "akotadi",
+        "id": "e5ddb17c-d709-405b-9b89-5d2fff9549d9",
+        "date_posted": 1697606486,
+        "company_url": "",
+        "is_visible": true
     }
 ]
