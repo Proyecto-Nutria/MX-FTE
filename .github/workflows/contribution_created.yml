@@ -1,0 +1,35 @@
+name: Contribution Created
+
+on:
+  issues:
+    types: ["labeled"]
+
+jobs:
+  run-python-script:
+    runs-on: ubuntu-latest
+    if: github.event.label.name == 'new_job' || github.event.label.name == 'edit_job'
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.9"
+
+      - name: execute contribution_approved.py
+        id: python_script
+        env:
+          GITHUB_EVENT_PATH: ${{ github.event_path }}
+        run: python .github/scripts/contribution_approved.py $GITHUB_EVENT_PATH
+
+      - name: Update issue
+        if: success()
+        uses: actions-cool/issues-helper@v3
+        with:
+           actions: 'update-issue'
+           token: ${{ secrets.GITHUB_TOKEN }}
+           issue-number: ${{ github.event.issue.number }}
+           title: ${{ steps.python_script.outputs.issue_title }}
+           update-mode: 'replace'
