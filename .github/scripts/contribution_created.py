@@ -44,8 +44,6 @@ def main():
         data.get('title', '?'), 
         len(data.get('locations', [])),
     )
-    print('data', data)
-    print('issue_title', issue_title)
 
     util.setOutput("issue_title", issue_title)
 
