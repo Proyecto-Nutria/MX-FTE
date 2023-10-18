@@ -4,12 +4,6 @@ import util
 import re
 
 
-def add_https_to_url(url):
-    if not url.startswith(("http://", "https://")):
-        url = f"https://{url}"
-    return url
-
-
 def get_data(body):
     lines = [text.strip("# ") for text in re.split('[\n\r]+', body)]
     
@@ -44,19 +38,14 @@ def main():
     issue_body = event_data['issue']['body']
 
     data = get_data(issue_body)
-
-    # remove utm-source
-    utm = data["url"].find("?utm_source")
-    if utm == -1:
-        utm = data["url"].find("&utm_source")
-    if utm != -1:
-        data["url"] = data["url"][:utm]
     
     issue_title = "{} | {} | {} Location(s)".format(
         data.get('company_name', '?'), 
         data.get('title', '?'), 
         len(data.get('locations', [])),
     )
+    print('data', data)
+    print('issue_title', issue_title)
 
     util.setOutput("issue_title", issue_title)
 
