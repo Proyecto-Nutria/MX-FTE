@@ -119,5 +119,24 @@
         "date_posted": 1697602435,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697602483,
+        "url": "https://jobs.careers.microsoft.com/global/en/share/1624600/",
+        "company_name": "Microsoft",
+        "title": "Software Engineer II",
+        "locations": [
+            "Remoto"
+        ],
+        "level": [
+            "Semi Sr"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "akotadi",
+        "id": "20354846-22ed-4267-8707-662c2c3d443e",
+        "date_posted": 1697602483,
+        "company_url": "",
+        "is_visible": true
     }
 ]
