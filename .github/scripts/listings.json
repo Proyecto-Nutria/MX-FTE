@@ -176,5 +176,25 @@
         "date_posted": 1697606486,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697606516,
+        "url": "https://www.amazon.jobs/en/jobs/2413363/software-development-engineer",
+        "company_name": "Amazon",
+        "title": "Software Development Engineer",
+        "locations": [
+            "Ciudad de M\u00e9xico",
+            "Guadalajara, Jalisco"
+        ],
+        "level": [
+            "Semi Sr"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "akotadi",
+        "id": "2a895f3e-a53a-4adb-bcae-7e3bbcc4f458",
+        "date_posted": 1697606516,
+        "company_url": "",
+        "is_visible": true
     }
 ]
