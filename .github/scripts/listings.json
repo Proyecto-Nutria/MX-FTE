@@ -100,5 +100,24 @@
         "date_posted": 1697602414,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697602435,
+        "url": "https://www.amazon.jobs/en/jobs/2466788/ingeniera-o-de-soporte-en-la-nube-i-big-data-aws",
+        "company_name": "Amazon",
+        "title": "Ingeniera/o de Soporte en la Nube I",
+        "locations": [
+            "Ciudad de M\u00e9xico"
+        ],
+        "level": [
+            "New Grad"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "akotadi",
+        "id": "cabf778a-88a9-413b-bc47-ab8bad8f10f5",
+        "date_posted": 1697602435,
+        "company_url": "",
+        "is_visible": true
     }
 ]
