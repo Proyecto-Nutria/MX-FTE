@@ -196,5 +196,24 @@
         "date_posted": 1697606516,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697911483,
+        "url": "https://www.linkedin.com/jobs/view/3742321167",
+        "company_name": "Brex",
+        "title": "Software Engineer, Frontend",
+        "locations": [
+            "Remoto"
+        ],
+        "level": [
+            "Semi Sr"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "hugoduar",
+        "id": "b901e31e-0a81-43c8-9aa1-05814b0d733d",
+        "date_posted": 1697911483,
+        "company_url": "",
+        "is_visible": true
     }
 ]
