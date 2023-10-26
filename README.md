@@ -26,6 +26,7 @@ Siguiendo el [repositorio de Pitt CSC & Simplify](https://github.com/SimplifyJob
 
 | Compañía | Rol | Lugar | Nivel | Aplicación/Link | Fecha publicación |
 | ------- | ---- | -------- | ----- | ---------------- | ----------- |
+| Yelp | Software Engineer 🇬🇧 | Remote | New Grad | <a href="https://www.linkedin.com/jobs/view/3734670280"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Brex | Software Engineer, Frontend 🇬🇧 | Remoto | Semi Sr | <a href="https://www.linkedin.com/jobs/view/3742321167"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Pinterest | Software Engineer, Fullstack 🇬🇧 | Ciudad de México</br>Remoto | New Grad, Semi Sr, Sr+ | <a href="https://www.pinterestcareers.com/en/jobs/4805387/software-engineer-fullstack/?gh_jid=4805387"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Microsoft | Senior Software Engineer 🇬🇧 | Remoto | Sr+ | <a href="https://jobs.careers.microsoft.com/global/en/share/1627683/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |

@@ -215,5 +215,24 @@
         "date_posted": 1697911483,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698355335,
+        "url": "https://www.linkedin.com/jobs/view/3734670280",
+        "company_name": "Yelp",
+        "title": "Software Engineer",
+        "locations": [
+            "Remote"
+        ],
+        "level": [
+            "New Grad"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "hugoduar",
+        "id": "d087ba19-0736-415d-b060-c45486e82564",
+        "date_posted": 1698355335,
+        "company_url": "",
+        "is_visible": true
     }
 ]
