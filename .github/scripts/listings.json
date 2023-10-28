@@ -234,5 +234,24 @@
         "date_posted": 1698355335,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698516369,
+        "url": "https://www.linkedin.com/jobs/view/3735357738/",
+        "company_name": "F\u00e9lix",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Remoto"
+        ],
+        "level": [
+            "New Grad"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "daniel692a",
+        "id": "5217bfaf-4360-4179-865d-d0fffbc89da9",
+        "date_posted": 1698516369,
+        "company_url": "",
+        "is_visible": true
     }
 ]
