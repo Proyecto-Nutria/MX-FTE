@@ -253,5 +253,24 @@
         "date_posted": 1698516369,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1698516436,
+        "url": "https://www.linkedin.com/jobs/view/3739466864",
+        "company_name": "Vanco",
+        "title": "Junior Data Engineer",
+        "locations": [
+            "Remoto"
+        ],
+        "level": [
+            "New Grad"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "daniel692a",
+        "id": "8b1114aa-8ffc-4234-a899-5847a946c559",
+        "date_posted": 1698516436,
+        "company_url": "",
+        "is_visible": true
     }
 ]
