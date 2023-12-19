@@ -272,5 +272,25 @@
         "date_posted": 1698516436,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1703021337,
+        "url": "https://www.mongodb.com/careers/jobs/5565947",
+        "company_name": "MongoDB",
+        "title": "Software Engineer, Competitive Intelligence",
+        "locations": [
+            "Ciudad de M\u00e9xico"
+        ],
+        "level": [
+            "Semi Sr",
+            "Sr+"
+        ],
+        "english": "Yes",
+        "active": true,
+        "source": "rafa238",
+        "id": "c2769dff-6fb3-4da6-9772-f3f0ced7639b",
+        "date_posted": 1703021337,
+        "company_url": "",
+        "is_visible": true
     }
 ]

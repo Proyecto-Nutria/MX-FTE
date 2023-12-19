@@ -26,6 +26,7 @@ Siguiendo el [repositorio de Pitt CSC & Simplify](https://github.com/SimplifyJob
 
 | Compañía | Rol | Lugar | Nivel | Aplicación/Link | Fecha publicación |
 | ------- | ---- | -------- | ----- | ---------------- | ----------- |
+| MongoDB | Software Engineer, Competitive Intelligence 🇬🇧 | Ciudad de México | Semi Sr, Sr+ | <a href="https://www.mongodb.com/careers/jobs/5565947"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 19 |
 | Vanco | Junior Data Engineer 🇬🇧 | Remoto | New Grad | <a href="https://www.linkedin.com/jobs/view/3739466864"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Félix | Junior Software Engineer 🇬🇧 | Remoto | New Grad | <a href="https://www.linkedin.com/jobs/view/3735357738/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Yelp | Software Engineer 🇬🇧 | Remote | New Grad | <a href="https://www.linkedin.com/jobs/view/3734670280"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
